@@ -10,3 +10,4 @@ CYN DDOS TOOL FOR WINDOWS
    - **Target IP**: Enter the IP address of the target.
    - **Port**: Input the target port number. 
 
+![cnddos ssssssssssssssssssssssssssssssssssssssssss](https://github.com/user-attachments/assets/b04f75e2-c3d6-482e-8581-8a1607bfe9fc)
